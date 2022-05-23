@@ -1,4 +1,4 @@
-###Android Subtitle Editor: Privacy policy
+## Android Subtitle Editor: Privacy policy
 
 Welcome to Android Subtitle Editor!
 
